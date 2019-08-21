@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1554476423659.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D5F74964",
+    "lastKnownWriteTime" : 1554804823,
+    "last_content_update" : 1554804823842,
+    "path" : "C:/Liang/Code/Pro2/R_p2/BaleenWhale_correlationheatmap.R",
+    "project_path" : "BaleenWhale_correlationheatmap.R",
+    "properties" : {
+        "cursorPosition" : "25,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 16,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

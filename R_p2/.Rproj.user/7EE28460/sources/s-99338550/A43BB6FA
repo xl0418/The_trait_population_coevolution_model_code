@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1561719883272.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2051629113",
+    "id" : "A43BB6FA",
+    "lastKnownWriteTime" : 1565875016,
+    "last_content_update" : 1565875016288,
+    "path" : "C:/Liang/Code/Pro2/R_p2/BaleenWhale_contrastplot.R",
+    "project_path" : "BaleenWhale_contrastplot.R",
+    "properties" : {
+        "cursorPosition" : "10,79",
+        "scrollLine" : "3",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 19,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

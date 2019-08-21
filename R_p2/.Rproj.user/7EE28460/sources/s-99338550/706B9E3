@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1553700075316.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "706B9E3",
+    "lastKnownWriteTime" : 1556537957,
+    "last_content_update" : 1556537957250,
+    "path" : "C:/Liang/Code/Pro2/R_p2/BaleenWhalePhylo2L.R",
+    "project_path" : "BaleenWhalePhylo2L.R",
+    "properties" : {
+        "cursorPosition" : "92,34",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 12,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

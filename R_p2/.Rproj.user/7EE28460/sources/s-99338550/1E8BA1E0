@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1554119424438.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1E8BA1E0",
+    "lastKnownWriteTime" : 1555943062,
+    "last_content_update" : 1555943062715,
+    "path" : "C:/Liang/Code/Pro2/R_p2/ModelSeleSMCplot.R",
+    "project_path" : "ModelSeleSMCplot.R",
+    "properties" : {
+        "cursorPosition" : "62,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 14,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

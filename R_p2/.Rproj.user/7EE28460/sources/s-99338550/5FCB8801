@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1558517130581.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "5FCB8801",
+    "lastKnownWriteTime" : 1558705894,
+    "last_content_update" : 1564481576034,
+    "path" : "C:/Liang/Code/Pro2/R_p2/BaleenWhale_predictsim_3models.R",
+    "project_path" : "BaleenWhale_predictsim_3models.R",
+    "properties" : {
+        "cursorPosition" : "11,75",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 17,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1539690841181.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1CE62269",
+    "lastKnownWriteTime" : 1553768167,
+    "last_content_update" : 1553768167431,
+    "path" : "C:/Liang/Code/Pro2/R_p2/empiricaldata2L.R",
+    "project_path" : "empiricaldata2L.R",
+    "properties" : {
+        "cursorPosition" : "19,22",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

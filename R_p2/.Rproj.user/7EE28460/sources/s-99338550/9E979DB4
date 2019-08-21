@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1562665835765.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9E979DB4",
+    "lastKnownWriteTime" : 1562685733,
+    "last_content_update" : 1562685733428,
+    "path" : "C:/Liang/Code/Pro2/R_p2/BaleenWhale_contrastplot_correctedspacing.R",
+    "project_path" : "BaleenWhale_contrastplot_correctedspacing.R",
+    "properties" : {
+        "cursorPosition" : "151,42",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 14,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
