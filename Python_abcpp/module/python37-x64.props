@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Label="PropertySheets" />
+  <PropertyGroup Label="UserMacros">
+    <PythonInclude>$(Python37)\include\</PythonInclude>
+    <PythonLibs>$(Python37)\libs\</PythonLibs>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ExecutablePath>$(PythonHome);$(VC_ExecutablePath_x64);$(WindowsSDK_ExecutablePath);$(VS_ExecutablePath);$(MSBuild_ExecutablePath);$(FxCopDir);$(PATH);</ExecutablePath>
+    <IncludePath>$(PythonInclude);$(VC_IncludePath);$(WindowsSDK_IncludePath);</IncludePath>
+    <LibraryPath>$(PythonLibs);$(VC_LibraryPath_x64);$(WindowsSDK_LibraryPath_x64);$(NETFXKitsDir)Lib\um\x64</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup />
+  <ItemGroup>
+    <BuildMacro Include="PythonInclude">
+      <Value>$(PythonInclude)</Value>
+    </BuildMacro>
+    <BuildMacro Include="PythonLibs">
+      <Value>$(PythonLibs)</Value>
+    </BuildMacro>
+  </ItemGroup>
+</Project>
